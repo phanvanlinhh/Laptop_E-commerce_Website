@@ -65,13 +65,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Demo
-Home Page
+**Home Page**
+
 <a href=""><img src="https://github.com/phanvanlinhh/Laptop_E-commerce_Website/blob/main/public/uploads/post/Screenshot%202024-06-09%20214530.png" alt="Home"></a>
-News Page
+
+**News Page**
+
 <a href=""><img src="https://github.com/phanvanlinhh/Laptop_E-commerce_Website/blob/main/public/uploads/post/Screenshot%202024-06-09%20215108.png" alt="News"></a>
-Cart Page
+
+**Cart Page**
+
 <a href=""><img src="https://github.com/phanvanlinhh/Laptop_E-commerce_Website/blob/main/public/uploads/post/Screenshot%202024-06-09%20215235.png" alt="Cart"></a>
-Admin/ Order Waiting
+
+**Admin/ Order Waiting**
+
 <a href=""><img src="https://github.com/phanvanlinhh/Laptop_E-commerce_Website/blob/main/public/uploads/post/Screenshot%202024-06-09%20215313.png" alt="Order Waiting"></a>
-Admin/ Products
+
+**Admin/ Products**
+
 <a href=""><img src="https://github.com/phanvanlinhh/Laptop_E-commerce_Website/blob/main/public/uploads/post/Screenshot%202024-06-09%20215325.png" alt="Products"></a>
